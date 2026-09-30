@@ -1,7 +1,0 @@
-node_modules
-.next
-out
-.env.local
-.env*.local
-npm-debug.log*
-.DS_Store
