@@ -1,1 +1,0 @@
-The app currently needs no image assets. This file simply keeps the public folder represented in the starter archive.
